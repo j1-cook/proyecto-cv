@@ -6,5 +6,5 @@ Se utilizó el entorno de Visual Studio Code y se recopiló información de ejem
 A continuación se detallan las fuentes más importantes utilizadas en el CV.
 
 https://codepen.io/CreativePunch/pen/wvwQer (se tomo las funciones JS para realizar el menu circular animado interactivo de las redes).
-https://www.youtube.com/watch?v=NtSv0xkDDcE&t (se utilizo el diseño y comportamiento de la barra circular animada realizado en HTML y CSS).
+https://www.youtube.com/watch?v=NtSv0xkDDcE&t (se utilizo el diseño y funcionalidad de la barra circular animada realizado en HTML y CSS).
 https://www.youtube.com/watch?v=hnjHCmaUVPg (la estructura base de toda la página, incluyendo los CSS media queries para que sea Responsive).
