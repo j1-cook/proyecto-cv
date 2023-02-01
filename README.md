@@ -1,5 +1,6 @@
 # proyecto-cv
-CV realizado en HTML, CSS y JS para TICMAS
+CV realizado en HTML, CSS y JS para TICMAS.
+Link: https://j1-cook.github.io/proyecto-cv/
 
 Proyecto Final para el curso de "Primeros pasos del desarrollo frontend" dictado por TICMAS dentro del programa "Argentina Programa 4.0".
 Se utilizó el entorno de Visual Studio Code y se recopiló información de ejemplos de CV de Youtube y páginas de código abierto como codepen.io.
